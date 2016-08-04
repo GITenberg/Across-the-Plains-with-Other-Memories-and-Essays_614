@@ -1,0 +1,32 @@
+_repo: Across-the-Plains-with-Other-Memories-and-Essays_614
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'Monterey (Calif.) -- Description and travel'
+- !lcsh 'Essays'
+- GITenberg
+tableOfContents: Across the plains -- The old Pacific capital -- Fontainebleau --
+  Epilogue to "An inland voyage" -- Random memories -- The lantern-bearers -- A chapter
+  on dreams -- Beggars -- Letter to a young gentleman who proposes to embrace the
+  career of art -- Pulvis et umbra -- A Christmas sermon.
+title: Across the Plains, with Other Memories and Essays
+url: http://www.gutenberg.org/ebooks/614
